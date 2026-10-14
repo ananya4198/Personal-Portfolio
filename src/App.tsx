@@ -9,11 +9,7 @@ export default function App() {
     return (
       <main className="page">
         <Navbar />
-        <Hero 
-          name="Ananya Nakka"
-          intro="I'm a first year Computer Science student at the University of Maryland, College Park."
-        />
-
+        <Hero name="Ananya"/>
         <Section title="Right now I'm...">
           <ul>
             <li>Learning web dev through the UMD App Dev Club bootcamp</li>

@@ -1,0 +1,16 @@
+:root {
+    --bg: #F6F4F0;
+    --surface: #FFFFFF;
+    --ink: #1E1A19;
+    --muted: #4F4744;
+    --subtle: #6E6460;
+    --border: #E4DFD8;
+    --chip: #EFEBE5;
+    --accent: #8C2F39;
+    --accent-2: #A8641C;
+    --green: #2E8B62;
+  }
+  
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font-family: "Bricolage Grotesque", "Helvetica Neue", Arial, sans-serif; }
+  a { color: inherit; }
