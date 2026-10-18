@@ -27,7 +27,7 @@ export type Project = {
       title: "FTC Robotics Code",
       org: "Garnet Valley Robotics",
       year: "2022–2026",
-      summary: "Programmed the robot's autonomous and driver-controlled modes as Lead Programmer, lead to a 2026 PA State Championship.",
+      summary: "Programmed the robot's autonomous and driver-controlled modes as Lead Programmer, led to a 2026 PA State Championship.",
       tags: ["Autonomous", "Teleop", "Robotics"],
       cover: "/covers/robotics.svg",
       link: "https://github.com/gvrobotics/Ananya-Code",
