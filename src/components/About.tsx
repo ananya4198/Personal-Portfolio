@@ -15,7 +15,7 @@ const coursework = [
           <h2>Education</h2>
           <div>
             <h3>University of Maryland, College Park</h3>
-            <p className="info-sub">B.S. Computer Science · Expected May 2029</p>
+            <p className="info-sub">Bachelor of Science in Computer Science · Expected May 2029</p>
           </div>
           <div className="tags">
             {coursework.map((course) => (

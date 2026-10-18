@@ -5,7 +5,7 @@ export type ExperienceEntry = {
     role: string;
     org: string;
     description: string;
-    icon: "code" | "flask" | "gear" | "megaphone";
+    icon: "code" | "flask" | "robot" | "megaphone";
   };
   
   export const experiences: ExperienceEntry[] = [
@@ -34,7 +34,7 @@ export type ExperienceEntry = {
       role: "Vice President & Lead Programmer",
       org: "Robotics Club · Garnet Valley HS",
       description: "Led the programming team and ran meetings, outreach and social media. Finalist Alliance Captain in 2025 and 2026.",
-      icon: "gear",
+      icon: "robot",
     },
     {
       id: "chemquest",
