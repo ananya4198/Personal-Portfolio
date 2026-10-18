@@ -1,4 +1,4 @@
-# Ananya Nakka · Personal Portfolio
+# Personal Portfolio
 
 My personal portfolio website, where I share my projects, experience, and a little about who I am. I built it during the UMD App Dev Club web dev bootcamp.
 
